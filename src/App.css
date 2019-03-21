@@ -1,7 +1,18 @@
 .App {
   text-align: center;
 }
-
+.alltasks
+{
+  background-color: red;
+}
+.completed
+{
+  background-color: rgb(130, 204, 253);
+}
+.deleted
+{
+  background-color: rgb(0, 255, 21);
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
